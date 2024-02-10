@@ -13,10 +13,13 @@ nav ul {
   align-items: center;
   gap: 2em;
   list-style: none;
-  background: #000;
+  background: #000000df;
   color: white;
   padding: 2em;
   text-transform: uppercase;
+}
+.link1 {
+  color: #df6d02;
 }
 
 ul li:hover {
