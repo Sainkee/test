@@ -51,6 +51,7 @@ button {
   background-color: #df6d02;
   padding: 1em 2em;
   color: white;
+  cursor: pointer;
 }
 .links {
   display: flex;
@@ -58,6 +59,10 @@ button {
   gap: 3em;
   padding-top: 2em;
   align-items: center;
+}
+.data {
+  border: 2px solid white;
+  padding: 0.5em 1em;
 }
 
 .ovalimg {
@@ -70,6 +75,7 @@ button {
     rgba(255, 255, 255, 0.547) 80% 100%
   );
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .oval {
